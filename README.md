@@ -13,7 +13,7 @@ Besides Java and GDScript, I also work with **Python**, **HTML/CSS/JavaScript**,
 
 ### 💼 My biggest projects
 
-#### 🛠️ [**Cäsar**](https://github.com/DeinLinkHier)
+#### 🛠️ [**Cäsar**](https://github.com/JWeinelt/Caesar)
 
 A powerful, modular **management tool for Minecraft servers**.
 It integrates with CloudNet v4, offers full player moderation (bans, warns, mutes), JSON file editing, and even a visual interface via Godot. Discord integration included!
