@@ -17,4 +17,4 @@ I started with LEGO Mindstorms, moved into game development with **Godot**, and 
 ### 💡 Skills & Tech
 
 * **Languages:** Java, GDScript, Python, JS/HTML/CSS, C++, C#, Delphi, Pascal
-* **Tools:** Godot, CloudNet v4, TailwindCSS, MSSQL, WebSockets
+* **Tools:** Godot, CloudNet v4, TailwindCSS, MariaDB, MSSQL, PostgreSQL, WebSockets
