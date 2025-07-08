@@ -1,13 +1,14 @@
 # Java libraries I'm using
 As I'm mainly developing with Java, I know some commonly used libraries really well.
 
-- GSON (JSON parsing)
+- GSON + Jackson (JSON parsing)
 - Lombok (@Getter, @Setter, @Builder)
 - SLF4J (Logging)
 - JLine (Console inputs)
 - Apache Commons (IO, compress, fileupload)
 - Java JWT (Generation of Web Tokens)
 - Annotations (Jetbrains)
+- OKHTTP (Making HTTP Requests)
 - Javalin (Creating HTTP servers)
 - JDA (Discord Bot library) + Lavaplayer (Voice Chats)
 - Bukkit/Spigot (Minecraft servers)
