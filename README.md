@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Julian Weinelt
 
-I'm Julian, an 18-year-old developer from Germany with over 8 years of experience in coding.
+I'm Julian, an 19-year-old developer from Germany with over 8 years of experience in coding.
 I started with LEGO Mindstorms, moved into game development with **Godot**, and now mainly develop in **Java**, creating tools, games, and multiplayer systems.
 
 ---
