@@ -19,6 +19,7 @@ I started with LEGO Mindstorms, moved into game development with **Godot**, and 
 ### 💡 Skills & Tech
 
 * **Languages:** Java, GDScript, Python, JS/HTML/CSS, Pascal, Lua (Open Computers Mod)
-* **Tools:** Godot, CloudNet v4, TailwindCSS, MariaDB, MSSQL, PostgreSQL, WebSockets
+* **Databases:** MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, H2
+* **Tools:** Godot, IntelliJ IDEA, WebStorm, CloudNet v4, TailwindCSS, WebSockets
 * **Build Systems:** Maven, Gradle
 * [View used Java libs here](https://github.com/JWeinelt/JWeinelt/blob/main/Java_Libs.md)
