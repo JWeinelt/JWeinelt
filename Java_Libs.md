@@ -27,5 +27,7 @@ As I'm mainly developing with Java, I know some commonly used libraries really w
 - Java-websocket
 - Google Guava
 - Google Lanterna
+- Swing
+- FlatLAF
 
 *There are also more, but I don't want to write down those dozens of APIs here. These are the ones I use mostly.*
