@@ -7,7 +7,7 @@ I started with LEGO Mindstorms, moved into game development with **Godot**, and 
 
 ### 🛠️ Projects I love working on
 
-* **DataBench** – an easy-to-use database management tool with support for many different database engines.
+* **DataCat** – an easy-to-use database management tool with support for many different database engines.
 * **CodeBlocksMC** – a **Minecraft network** with custom minigames and a deep economy system
 * **G.H.O.S.T.** – a real-life **ghost hunting mini-series** inspired by games like *Phasmophobia*
 * **Ultimate Backport Mod** - a Minecraft mod that brings features of new updates to the old versions
